@@ -22,20 +22,3 @@ CSV is a good standard to save the structure information because you can handle 
 
 - Import structure files for SWT files of version [7.xx](https://github.com/koenige/swtparser/tree/master/structure-v7xx).
 
-## Licence
-
-	Copyright (C) 2005, 2012 Gustaf Mossakowski, Falco Nogatz, Jacob Roggon
-
-	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU Lesser General Public License as published by
-	the Free Software Foundation, either version 3 of the License, or
-	(at your option) any later version.
-	
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	GNU Lesser General Public License for more details.
-	
-	You should have received a copy of the GNU Lesser General Public License
-	along with this program. If not, see <http://www.gnu.org/licenses/>.
-
