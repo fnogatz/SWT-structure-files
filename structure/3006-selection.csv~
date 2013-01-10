@@ -2,12 +2,12 @@
 # http://www.zugzwang.org/projects/swtparser
 # @author Gustaf Mossakowski, <gustaf@koenige.org>, 2005, 2012
 #
-# Definition file for colour values
-# Defintionsdatei für Farben
+# Definition file for single games' status
+# Defintionsdatei für Status von Partien
 #
 # [bin]	[value]
 00	0
-01	1
-02	3
+02	1
 03	2
-04	4
+22  4
+33	3

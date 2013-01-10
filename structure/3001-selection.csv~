@@ -2,12 +2,10 @@
 # http://www.zugzwang.org/projects/swtparser
 # @author Gustaf Mossakowski, <gustaf@koenige.org>, 2005, 2012
 #
-# Definition file for colour values
-# Defintionsdatei für Farben
+# Definition file for place values
+# Definitionsdatei für Spielorte
 #
-# [bin]	[value]
+# [bin] [value]
 00	0
 01	1
-02	3
 03	2
-04	4
