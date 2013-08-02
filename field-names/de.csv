@@ -99,7 +99,8 @@
 81	Einzelergebnis-Wertung
 81-0	Sieg=1, Remis=0.5
 81-1	Sieg=3, Remis=1
-81-2	Eigene Wertung
+81-2	Sieg=3, Remis mit Weiß: 1, Remis mit Schwarz: 1.5
+81-3	Eigene Wertung
 82	Mannschaftsergebnis-Wertung
 82-0	Sieg=2, Remis=1
 82-1	Sieg=3, Remis=1
@@ -205,7 +206,17 @@
 166	39. Runde: Uhrzeit
 167	40. Runde: Datum
 168	40. Runde: Uhrzeit
-	
+169	Eigene Einzelergebnis-Wertung für Gewinn
+170	Eigene Einzelergebnis-Wertung für Gewinn mit Schwarz
+171	Eigene Einzelergebnis-Wertung für Remis
+172	Eigene Einzelergebnis-Wertung für Remis mit Schwarz
+173	Eigene Einzelergebnis-Wertung für Verlust
+174	Eigene Einzelergebnis-Wertung für kampflosen Verlust
+175	Eigene Mannschaftsergebnis-Wertung für Gewinn
+176	Eigene Mannschaftsergebnis-Wertung für Remis
+177	Eigene Mannschaftsergebnis-Wertung für Verlust
+178	Eigene Mannschaftsergebnis-Wertung für kampflosen Verlust
+
 1000	Mannschaftsname
 1001	FIDE-Elo-Schnitt
 1002	DWZ-Schnitt
