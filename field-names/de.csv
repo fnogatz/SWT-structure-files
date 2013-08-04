@@ -42,21 +42,21 @@
 33	Durchgänge
 34	Bretter
 35	Mannschaftsturnier
-36	Feinwertung Mannschaft 1
-37	Feinwertung Mannschaft 2 [CH]
-38	Feinwertung Mannschaft 3 [CH]
-39	Feinwertung Mannschaft 2 [Scheveninger]
-40	Feinwertung Mannschaft 3 [Scheveninger]
-41	Feinwertung Mannschaft 2 [Amsterdamer]
-42	Feinwertung Mannschaft 3 [Amsterdamer]
-43	Feinwertung Einzelspieler 1 [CH]
+36	1. Wertung Mannschaft
+37	2. Wertung Mannschaft [CH]
+38	3. Wertung Mannschaft [CH]
+39	2. Wertung Mannschaft [Scheveninger]
+40	3. Wertung Mannschaft [Scheveninger]
+41	2. Wertung Mannschaft [Amsterdamer]
+42	3. Wertung Mannschaft [Amsterdamer]
+43	2. Wertung Einzelspieler [CH]
 44	Mannschafts-Gewinnmodus (00 = Punkte A > B, FF = Mindestpunkte (4,5/8))
 45	Pseudowertung für Spieler ohne NWZ/TWZ
 46	Gleiche Rangnummer bei gleicher Feinwertung
 47	Anzahl der Runden mit Test auf Verbandsgleichheit
 48	Mit vorangestelltem KO-Turnier (00 = nein, 03 = ja)
 49	KO-Turnier-Siege mit voller Punktzahl ins CH-System übernehmen
-50	Feinwertung Mannschaft 3 [Keizer]
+50	3. Wertung Mannschaft [Keizer]
 51	Zweite Wertung: Partiepunkte [Keizer]
 52	Paarungsermittlung
 52-0	?
@@ -93,8 +93,12 @@
 75	Maximal speicherbare Mannschaften (MaxMann)
 76	?- Spieler/Mannschaft *2
 77	Spieler/Mannschaft
-78	Farbe des 1. Spl. in Runde 1 (00, 01 = Weiß, FF = Schwarz)
-79	Farbe Brt. 1 der Heim-Mannsch. (00 = Schwarz, FF = Weiß)
+78	Farbe des 1. Spl. bzw. Paarung der 1. Mannsch. in Runde 1
+78-0	Zufall
+78-1	Weiß bzw. Heim
+78-2	Schwarz bzw. Gast
+78-3	Schwarz
+79	Farbe Brt. 1 der Heim-Mannsch.
 80	Mannschaftszahl
 81	Einzelergebnis-Wertung
 81-0	Sieg=1, Remis=0.5
@@ -122,6 +126,7 @@
 84-12	Drei-Punkte-Farbwertung
 84-13	Berliner Wertung
 84-14	Schmuljan-Wertung
+84-15	Anzahl der Siege
 85	Weitere Schiedsrichter (2/4)
 86	Weitere Schiedsrichter (3/4)
 87	Weitere Schiedsrichter (4/4)
@@ -216,6 +221,11 @@
 176	Eigene Mannschaftsergebnis-Wertung für Remis
 177	Eigene Mannschaftsergebnis-Wertung für Verlust
 178	Eigene Mannschaftsergebnis-Wertung für kampflosen Verlust
+179	Gewinnpartiendarstellung bei Mannschaften
+180	2. Wertung Einzelspieler [Rundenturnier]
+181	3. Wertung Einzelspieler [Rundenturnier]
+182	2. Wertung Mannschaft [Rundenturnier]
+183	3. Wertung Mannschaft [Rundenturnier]
 
 1000	Mannschaftsname
 1001	FIDE-Elo-Schnitt
