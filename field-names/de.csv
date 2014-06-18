@@ -226,6 +226,20 @@
 181	3. Wertung Einzelspieler [Rundenturnier]
 182	2. Wertung Mannschaft [Rundenturnier]
 183	3. Wertung Mannschaft [Rundenturnier]
+184	Sortierung der Startrangliste
+184-0	Alphabetisch
+184-1	Auslosen
+184-2	Elo oder NWZ / Alphabet (Elo vorrangig, wenn vorhanden)
+184-3	Elo oder NWZ / Auslosen (Elo vorrangig, wenn vorhanden)
+184-4	Vereinszugehörigkeit
+184-5	Elo vor NWZ / Auslosen
+184-6	Elo vor NWZ / Alphabet
+184-7	Alter (jung vor alt)
+184-8	Alter (alt vor jung)
+184-9	Elo oder NWZ / Auslosen (NWZ vorranging, wenn vorhanden)
+184-10	Elo oder NWZ / Alphabet (höchste Zahl wird genommen)
+184-11	Elo oder NWZ / Auslosen (höchste Zahl wird genommen)
+184-12	ZPS-Vereinskennzeichnung
 
 1000	Mannschaftsname
 1001	FIDE-Elo-Schnitt
