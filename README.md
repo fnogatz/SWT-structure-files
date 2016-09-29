@@ -12,7 +12,7 @@ Currently the following SWT version are supported:
 
 > Why don't you provide a parser instead of the structure files?
 
-The aim of this project is to build a basis which can be used for parsers in different programming languages. Currently there is one for [node.js](https://github.com/chessio/node-swtparser) and another written in [PHP](https://github.com/koenige/swtparser), both are using these structure files. Feel free to write another in your favorite language!
+The aim of this project is to build a basis which can be used for parsers in different programming languages. Currently there is one for [node.js](https://github.com/fnogatz/node-swtparser) and another written in [PHP](https://github.com/koenige/swtparser), both are using these structure files. Feel free to write another in your favorite language!
 
 > Why did you choose CSV to store the structure information?
 
