@@ -42,21 +42,21 @@
 33	Durchgänge
 34	Bretter
 35	Mannschaftsturnier
-36	1. Wertung Mannschaft
-37	2. Wertung Mannschaft [CH]
-38	3. Wertung Mannschaft [CH]
-39	2. Wertung Mannschaft [Scheveninger]
-40	3. Wertung Mannschaft [Scheveninger]
-41	2. Wertung Mannschaft [Amsterdamer]
-42	3. Wertung Mannschaft [Amsterdamer]
-43	2. Wertung Einzelspieler [CH]
+36	Feinwertung Mannschaft 1
+37	Feinwertung Mannschaft 2 [CH]
+38	Feinwertung Mannschaft 3 [CH]
+39	Feinwertung Mannschaft 2 [Scheveninger]
+40	Feinwertung Mannschaft 3 [Scheveninger]
+41	Feinwertung Mannschaft 2 [Amsterdamer]
+42	Feinwertung Mannschaft 3 [Amsterdamer]
+43	Feinwertung Einzelspieler 1 [CH]
 44	Mannschafts-Gewinnmodus (00 = Punkte A > B, FF = Mindestpunkte (4,5/8))
 45	Pseudowertung für Spieler ohne NWZ/TWZ
 46	Gleiche Rangnummer bei gleicher Feinwertung
 47	Anzahl der Runden mit Test auf Verbandsgleichheit
 48	Mit vorangestelltem KO-Turnier (00 = nein, 03 = ja)
 49	KO-Turnier-Siege mit voller Punktzahl ins CH-System übernehmen
-50	3. Wertung Mannschaft [Keizer]
+50	Feinwertung Mannschaft 3 [Keizer]
 51	Zweite Wertung: Partiepunkte [Keizer]
 52	Paarungsermittlung
 52-0	?

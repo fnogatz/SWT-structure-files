@@ -1,10 +1,10 @@
 # Zugzwang Project: SWT parser
 # http://www.zugzwang.org/projects/swtparser
-# @author Gustaf Mossakowski, <gustaf@koenige.org>, 2005, 2012
-# @author Falco Nogatz, <fnogatz@gmail.com>, 2012
+# @author Gustaf Mossakowski, <gustaf@koenige.org>, 2005, 2012, 2015
+# @author Falco Nogatz, <fnogatz@gmail.com>, 2012, 2016
 #
 # Definition file for common tournament data
-# Definitionsdatei für allgemeine Turnierdaten
+# Definitionsdatei fÃ¼r allgemeine Turnierdaten
 #
 #[start]	[end]	[type]	[field]
 1		int	1
