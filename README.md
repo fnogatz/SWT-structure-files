@@ -6,7 +6,10 @@ This is a collection of files which describe the binary format of chess tourname
 
 Currently the following SWT version are supported:
 
-- 8.xx
+- [7.xx](https://github.com/fnogatz/SWT-structure-files/tree/master/700)
+- [8.xx](https://github.com/fnogatz/SWT-structure-files/tree/master/800)
+
+The file format definitions for the different versions are placed into appropriate directories. For every change that is not backwards-compatible we add a new directory named as the lowest version for which this new definition file should be applied. If there is no file for a given version, the file of the next lower version should be used. In this way we only track breaking changes in the file format specification in this repository.
 
 ## FAQ
 
@@ -17,8 +20,3 @@ The aim of this project is to build a basis which can be used for parsers in dif
 > Why did you choose CSV to store the structure information?
 
 CSV is a good standard to save the structure information because you can handle them in nearly every programming language very easily.
-
-## Todo
-
-- Import structure files for SWT files of version [7.xx](https://github.com/koenige/swtparser/tree/master/structure-v7xx).
-
