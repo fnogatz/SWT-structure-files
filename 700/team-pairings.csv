@@ -8,7 +8,7 @@
 # [start]	[end]	[type]	[content]
 0	1	bin	3000
 8		sel	3001
-9	A	inb	3002
+9	A	in9	3002
 B		sel	3004
 D		int	3005
 F		sel	3006
