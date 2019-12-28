@@ -240,6 +240,7 @@
 184-10	Elo oder NWZ / Alphabet (höchste Zahl wird genommen)
 184-11	Elo oder NWZ / Auslosen (höchste Zahl wird genommen)
 184-12	ZPS-Vereinskennzeichnung
+185	Offset MNr.-ID
 
 1000	Mannschaftsname
 1001	FIDE-Elo-Schnitt
