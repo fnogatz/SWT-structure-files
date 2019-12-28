@@ -247,9 +247,9 @@
 1003	DWZ-Schnitt (?)
 1004	TlnKenn.
 1005	Land
-1006	Verband
+1006	Verband Brett 1
 1007	Datum
-1008	ZPS Vereins-Nr.
+1008	ZPS Vereins-Nr. Brett 1
 1009	Attribut
 1010	Selekt
 1011	Wahl1, Wahl2, Wahl3
@@ -288,6 +288,10 @@
 1044	Info 2
 1045	Info 3
 1046	Info 4
+1047	Mannschaftsname (lang)
+1048	ZPS Mitglieds-Nr. Brett 1
+1049	PKZ Brett 1
+1050	FIDE-ID Brett 1
 	
 2000	Spielername
 2001	Mannschaft

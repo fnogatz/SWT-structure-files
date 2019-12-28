@@ -1,6 +1,6 @@
 # Zugzwang Project: SWT parser
 # http://www.zugzwang.org/projects/swtparser
-# @author Gustaf Mossakowski, <gustaf@koenige.org>, 2005, 2012, 2015
+# @author Gustaf Mossakowski, <gustaf@koenige.org>, 2005, 2012, 2015, 2019
 #
 # Definition file for team data
 # Definitionsdatei für Mannschaftsdaten
@@ -8,6 +8,7 @@
 #
 # [start]	[end]	[type]	[content]
 0	1F	asc	1000
+21	40	asc	1047
 46	49	asc	1001
 4B	4E	asc	1002
 50	53	asc	1003
@@ -16,6 +17,7 @@
 6D	6F	asc	1006
 80	89	asc	1007
 99	9D	asc	1008
+9F	A2	asc	1048
 B8		asc	1009
 BC		asc	1010
 C0	C2	asc	1011
@@ -50,6 +52,8 @@ FE		int	1032
 12C	12D	inb	1040
 134		int	1041
 138		int	1042
+144	14B	asc	1050
+151	158	asc	1049
 15E	185	asc	1043
 187	1AE	asc	1044
 1B0	1D7	asc	1045
