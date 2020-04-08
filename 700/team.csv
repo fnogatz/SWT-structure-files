@@ -27,7 +27,7 @@ CD		int	1014
 CF	D0	inb	1015
 D5		int	1016
 D7		int	1017
-D9	DA	inb	1018
+D9	DA	in9	1018
 DB		int	1019
 DD		int	1020
 DF		int	1021
